@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **.Net Core,Java,SQL Server**
 
-- 📫 How to reach me **dev.fka@gmail.com**
+- 📫 How to reach me **avcikaanf@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
