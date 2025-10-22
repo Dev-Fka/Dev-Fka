@@ -1,9 +1,12 @@
 <h1 align="center">Hi 👋, I'm Fatih Kaan</h1>
 <h3 align="center">A passionate Full-Stack Software Engineer Turkey</h3>
 
-- 🌱 I’m currently learning **VueJS,Flutter,MongoDB**
+I am a Software Engineer with 5+ years of professional experience, currently working at Petlas.  
+Specialized in fullstack development using .NET and Java technologies, building scalable and maintainable applications.  
+I continuously learn and improve my skills every day, exploring modern technologies like microservices, cloud, and DevOps.  
+Currently pursuing a Master's in AI/ML to expand my expertise in intelligent systems and data-driven solutions.  
 
-- 💬 Ask me about **.Net Core,Java,SQL Server**
+Always aiming to combine solid engineering practices with innovative technologies.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
