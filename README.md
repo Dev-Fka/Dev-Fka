@@ -1,21 +1,25 @@
-<h1 align="center">Hi 👋, I'm Fatih Kaan</h1>
-<h3 align="center">A passionate Full-Stack Software Engineer Turkey</h3>
 
-I am a Software Engineer with 5+ years of professional experience, currently working at Petlas.  
-Specialized in fullstack development using .NET and Java technologies, building scalable and maintainable applications.  
-I continuously learn and improve my skills every day, exploring modern technologies like microservices, cloud, and DevOps.  
-Currently pursuing a Master's in AI/ML to expand my expertise in intelligent systems and data-driven solutions.  
+# Hola , Fatih Kaan Avcı 👋
 
-Always aiming to combine solid engineering practices with innovative technologies.
+### Software Engineer | Full-Stack Enthusiast
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in//fatih-kaan-avci" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="/fatih-kaan-avci" height="30" width="40" /></a>
-</p>
+I have been working as a software engineer at **Petlas** for approximately **4 years**, developing enterprise-level corporate solutions. Currently, I continue my professional career while also pursuing my **Master’s degree**, specializing in **Computer Vision** and **Machine Learning**.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+My main focus is modernizing complex business processes, building monorepo architectures, and developing scalable microservices. At the same time, I am also working on and supporting **SaaS business models**.
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dev-fka&show_icons=true&locale=en&layout=compact" alt="dev-fka" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dev-fka&show_icons=true&locale=en" alt="dev-fka" /></p>
+### 🛠️ Technologies & Tools I Use
+
+| Area | Techs |
+| :--- | :--- |
+| **Backend** | Java EE, .NET , Spring Boot, Spring Security |
+| **Frontend** | Vue 3, Tailwind CSS, Vite |
+| **Veri & Mesajlaşma** | PostgreSQL, Redis, RabbitMQ, MS SQL Server |
+| **DevOps & Araçlar** | Docker, Docker Compose, Git, Maven |
+| **AI & Vision** | LLm's,OpenCV,YOLO, RT-DETR (Research & Development phase) |
+---
+
+* **LinkedIn:** [https://www.linkedin.com/in/fatih-kaan-avc%C4%B1-/]
+* **Email:** avcifkis@gmail.com 
+
